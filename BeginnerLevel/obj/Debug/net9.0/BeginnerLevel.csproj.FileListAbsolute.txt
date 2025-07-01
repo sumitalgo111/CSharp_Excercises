@@ -1,0 +1,15 @@
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\bin\Debug\net9.0\BeginnerLevel.exe
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\bin\Debug\net9.0\BeginnerLevel.deps.json
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\bin\Debug\net9.0\BeginnerLevel.runtimeconfig.json
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\bin\Debug\net9.0\BeginnerLevel.dll
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\bin\Debug\net9.0\BeginnerLevel.pdb
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\BeginnerLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\BeginnerLevel.AssemblyInfoInputs.cache
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\BeginnerLevel.AssemblyInfo.cs
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\BeginnerLevel.csproj.CoreCompileInputs.cache
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\BeginnerLevel.sourcelink.json
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\BeginnerLevel.dll
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\refint\BeginnerLevel.dll
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\BeginnerLevel.pdb
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\BeginnerLevel.genruntimeconfig.cache
+C:\Users\sumitk\Documents\GitHub\CSharp_Excercises\BeginnerLevel\obj\Debug\net9.0\ref\BeginnerLevel.dll
